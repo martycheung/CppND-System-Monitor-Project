@@ -1,8 +1,6 @@
 # CppND-System-Monitor
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
-
-Follow along with the classroom lesson to complete the project!
+This repo contains the code for project 2 of the Udacity C++ Nanodegree. The goal was to build a system monitor, similar to the htop program on Linux.
 
 ![System Monitor](images/monitor.png)
 
